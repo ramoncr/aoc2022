@@ -1,0 +1,15 @@
+C:\code\AoC\AoC.One\AoC.One\obj\Debug\net7.0\AoC.One.csproj.AssemblyReference.cache
+C:\code\AoC\AoC.One\AoC.One\obj\Debug\net7.0\AoC.One.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\AoC\AoC.One\AoC.One\obj\Debug\net7.0\AoC.One.AssemblyInfoInputs.cache
+C:\code\AoC\AoC.One\AoC.One\obj\Debug\net7.0\AoC.One.AssemblyInfo.cs
+C:\code\AoC\AoC.One\AoC.One\obj\Debug\net7.0\AoC.One.csproj.CoreCompileInputs.cache
+C:\code\AoC\AoC.One\AoC.One\bin\Debug\net7.0\AoC.One.exe
+C:\code\AoC\AoC.One\AoC.One\bin\Debug\net7.0\AoC.One.deps.json
+C:\code\AoC\AoC.One\AoC.One\bin\Debug\net7.0\AoC.One.runtimeconfig.json
+C:\code\AoC\AoC.One\AoC.One\bin\Debug\net7.0\AoC.One.dll
+C:\code\AoC\AoC.One\AoC.One\bin\Debug\net7.0\AoC.One.pdb
+C:\code\AoC\AoC.One\AoC.One\obj\Debug\net7.0\AoC.One.dll
+C:\code\AoC\AoC.One\AoC.One\obj\Debug\net7.0\refint\AoC.One.dll
+C:\code\AoC\AoC.One\AoC.One\obj\Debug\net7.0\AoC.One.pdb
+C:\code\AoC\AoC.One\AoC.One\obj\Debug\net7.0\AoC.One.genruntimeconfig.cache
+C:\code\AoC\AoC.One\AoC.One\obj\Debug\net7.0\ref\AoC.One.dll
