@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/ramoncr/aoc2022#readme",
   "devDependencies": {
+    "@types/lodash": "^4.14.191",
     "@types/node": "^18.11.11"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
